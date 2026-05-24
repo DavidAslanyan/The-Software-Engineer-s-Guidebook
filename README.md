@@ -1,7 +1,7 @@
 # The-Software-Engineer-s-Guidebook
 This is my book summary of the book "The Software Engineer's Guidebook" by Gergely Orosz
 
-<img width="1405" height="2000" alt="image" src="https://github.com/user-attachments/assets/ffd5e5b1-8061-4e88-bb62-371c471f6b12" />
+<img width="350" height="500" alt="image" src="https://github.com/user-attachments/assets/ffd5e5b1-8061-4e88-bb62-371c471f6b12" />
 
 
 ## Foundational Skills

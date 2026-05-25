@@ -4,7 +4,7 @@ This is my book summary of the book "The Software Engineer's Guidebook" by Gerge
 <img width="350" height="500" alt="image" src="https://github.com/user-attachments/assets/ffd5e5b1-8061-4e88-bb62-371c471f6b12" />
 
 
-## Foundational Skills
+## Foundational Skills 
 
 1. **Learn one language very well.** Go deep into its boring topics. Then, when you learn a second language, you still get better at the first one, but you also understand its strengths and weaknesses compared with others.
 

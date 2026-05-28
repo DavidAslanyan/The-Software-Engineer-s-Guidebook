@@ -79,3 +79,16 @@ The most productive engineers aren't always the ones who write code fast and hav
 4. **Ask questions before giving feedback.** If something is wrong or missing, do not jump into highlighting that the engineer did not do this or that. Instead, reframe it into a question. A question gives the opportunity to share more context, which may clear a misunderstanding you did not know of when doing the review.
 
 5. **The goal of your feedback is to help the other person improve.** As long as you offer feedback that is encouraging and not discouraging, you help them grow.
+
+## Software Engineering
+
+1. **Programming languages fall into two main paradigms**, with functional as a popular style within one of them:
+   1. **Imperative** — you tell the computer *how* to do something, step by step. You manage the state and control flow yourself. Examples: C, C++, Java, PHP, JavaScript, Python.
+   2. **Declarative** — you describe *what* you want, and the language figures out how to get it. You don't write the steps. Examples: SQL, HTML.
+   3. **Functional** — a declarative style where you build programs by composing functions and avoiding changing state. Data flows through functions instead of being mutated. Examples: Haskell, Elixir, Clojure.
+
+2. **Learn and improve your debugging skills.**
+   1. **Know which dashboards and logs to look at.** Get familiar with the health dashboard and all the places where you can see and monitor data clearly — ClickHouse, Grafana, Elastic, and so on.
+   2. **Make debugging easier for others.** Put the right logs in the right places, and configure dashboards to display the needed data properly and make them easy to use.
+   3. **Learn the infrastructure.** Understand how services are deployed, how environment variables are set and read, and how certificates are configured. For example, know your Kubernetes setup well.
+   4. **Learn through outages.** When something goes down, sit with it and understand what happened and what went wrong. A more senior engineer may lead the fix, but you should participate to familiarize yourself with what broke, how it was fixed, and what was done to prevent the same outage from happening again.
